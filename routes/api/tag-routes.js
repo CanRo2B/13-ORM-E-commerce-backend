@@ -10,6 +10,7 @@ router.get('/', async (req, res) => {
   try{
   const tagData = await Tag.findAll(
     include [{ model: Product }],
+    
   );
   res.status(200).json(tagData);
   } catch (err) {
