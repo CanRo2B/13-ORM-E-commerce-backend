@@ -22,7 +22,7 @@ I used several node modules to start this challenge.  We installed Express, Sequ
 This one is simple, open the file.  Open integrated terminal.  Please make sure the important node_modules in the package.json is downloaded.  Next, in the terminal, type npm run seed.  This will utilize the connection to dBeaver and Insomnia.  In the terminal either enter npm start or node server.js, this will open the port to the local host.  Go to your opened Insomnia and feel free to GET, POST and DEL.  
 
 ## Video Walkthrough
-[Video Link]()
+[Video Link](https://drive.google.com/file/d/1ziGIoUaQATobsd3P1nyn0_7AGyJcvM0i/view?usp=sharing)
 
 ## Acknowledgements
 A huge thank you to the Veronica the Amazing TA and the other instructional staff, John and Andy, in our UCF Bootcamp class.
